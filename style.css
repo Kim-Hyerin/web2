@@ -39,3 +39,7 @@ body{
       border-bottom: none;
     }
   }
+  .def{
+    color:blue;
+    text-decoration: underline;
+  }
